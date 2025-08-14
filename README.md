@@ -7,9 +7,9 @@ Models
 PW040KZXYCH 	PW050KZXYCH 	PW060KZXYCH 	PW080KZXYCH
 
 This Heat Pump is also sold as with diferent Brand names 
-Twister Pooltech
-SPA Lagert.dk
-Kensol
+- Twister Pooltech
+- SPA Lagert.dk
+- Kensol
 
 
 The Board inside is the CC1010B
